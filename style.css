@@ -1,0 +1,21 @@
+body {
+    font-family: "Cambria", sans-serif;
+    color: black;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+div,
+li {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 5px;
+}

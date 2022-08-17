@@ -1,0 +1,13 @@
+body,
+li {
+    text-align: center;
+}
+
+ul,
+ol {
+    display:inline-block;
+}
+
+.desc {
+    font-style: italic;
+}
